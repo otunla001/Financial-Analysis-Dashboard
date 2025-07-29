@@ -218,7 +218,7 @@ ADDCOLUMNS(
 
 - What does the dashboard look like?
 
-![Excel Dashboard](Document/Pizza%20D%203.png)
+![Excel Dashboard](Document/Financial%20Analysis%20Dashboard.jpg)
  
 
 
